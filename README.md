@@ -40,7 +40,7 @@ Dalam program ini, array digunakan untuk menyimpan 10 nilai mahasiswa.
 
 ## Screenshot Hasil Eksekusi
 
-![hasil program](screenshot input nilai dan grafik1.png)
+![hasil program](screenshot%20input%20nilai%20dan%20grafik1.png)
 
 ## Analisis Kompleksitas
 
