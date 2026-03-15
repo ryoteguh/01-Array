@@ -14,8 +14,8 @@ nilai = [100, 25, 77, 59, 67]
 
 Setiap elemen dapat diakses menggunakan indeks:
 
-nilai[0]   # hasil: 100
-nilai[2]   # hasil: 77
+nilai[0]   hasil: 100
+nilai[2]   hasil: 77
 
 Karakteristik array:
 
